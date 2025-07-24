@@ -1,3 +1,4 @@
+#cloned by abdullah mewawala
 # Biker-HUB-Full-Stack-website-development-project
 BikerHUB is an interactive web platform designed for bike enthusiasts to explore, buy, and sell bikes. It features a dynamic homepage with a full-cover image slider showcasing trending bikes, along with sections for new bike collections and pre-owned bike listings. Users can easily browse bike details via hover-activated cards and access a variety of bike accessories. A consistent navigation bar and footer with contact information, social media links, and newsletter signup provide a user-friendly experience, making BikerHUB a one-stop destination for all biking needs.
 
